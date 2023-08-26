@@ -1,0 +1,56 @@
+html{
+    margin: 0;
+    padding: 0;
+    background: url(../img/fol.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 90vh
+    
+ }
+ 
+.container{
+    width: 20%;
+    background: none;
+    color: #d6a8b6;
+    font-size: 1rem;
+    padding: 29px;
+    border: none;
+    outline: none;
+    border-bottom: 29px solid var(--color);
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    height: 40vh;
+}
+
+
+.container{
+    color: var(--color);
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 5px;
+    transform: translateY(150px);
+    transition: trnasform .3s, color .3s;
+}
+
+.container{
+    background:#E25050;
+    color:rgb(19, 18, 17);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 1rem;
+    padding: none;
+    border-radius: .3em;
+
+}
+
+.container{
+    position:absolute;
+    Right:50px;
+    margin-top: 2%;
+    
+}
+
+
+
+
